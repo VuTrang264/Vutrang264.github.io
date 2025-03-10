@@ -5,7 +5,7 @@ body {
 }
 
 nav ul {
-    background-color: rgb(248, 165, 165);
+    background-color: rgb(153, 179, 110);
     margin: 0;
     padding: 0;
     text-align: center;
@@ -26,14 +26,14 @@ main{padding-left: 20px;}
 .my-list img {
     width: 220px; 
     height: 250px; 
-    border-image-source: 50%;
+    border-image-source: 10%;
     display: block;
+    text-align: center;
 }
-.my-list div  {text-align: center;
-    }
+
 
 main article {
-    background: rgb(234, 210, 210);
+    background: rgb(227, 212, 212);
     margin: 10px;
     padding: 5px;
     
@@ -42,6 +42,14 @@ nav a {
     text-decoration: none;
     color: #f0c7c7;
 }
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
 
-
+thead{
+    color: red;
+}
 .Profile{display: flex;justify-content: flex-end;}
+
