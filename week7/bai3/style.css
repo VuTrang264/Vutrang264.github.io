@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 60%;
+    margin: auto;
+}
+.container {
+    border: 1px solid #000;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
+.left {
+    float: left;
+    margin-right: 10px;
+}
+.right {
+    float: right;
+    margin-left: 10px;
+}
+.clearfix {
+    clear: both;
+}
+        

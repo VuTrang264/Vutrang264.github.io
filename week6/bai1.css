@@ -3,7 +3,7 @@ MyCustomizeTag {
     display: block;
     text-align: center;
     text-transform: capitalize;
-    text-decoration: underline;
+    text-decoration: dotted;
     width: 500px;
 }
 div {
